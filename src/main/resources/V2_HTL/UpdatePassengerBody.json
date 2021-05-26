@@ -1,0 +1,146 @@
+{
+  "keyControls": {
+    "cmp": "CT",
+    "channel": "U",
+    "bkgType": "STD",
+    "cliGrp": "Direct",
+    "cliId": -1,
+    "cliType": "DIRECT_CLIENT",
+    "cur": "GBP",
+    "srcCountry": "GB",
+    "userId": 8778,
+    "username": "codegen",
+    "div": "CTDIV_LON",
+    "brand": "CT"
+  },
+  "payload": [
+    {
+      "key": "{{TravellersKey1}}",
+      "no": 1,
+      "lead": true,
+      "driver": false,
+      "activeForBooking": true,
+      "refuseInsurance": false,
+      "profile": {
+        "title": "Mr",
+        "firstName": "Manoj",
+        "middleName": "",
+        "lastName": "Sethi",
+        "type": "A",
+        "subType": "A",
+        "dob": "1990-01-01",
+        "dobUnknown": false,
+        "age": 31,
+        "gender": "M",
+        "vip": false,
+        "smoker": false,
+        "frequentFlyerNumbers": [],
+        "addresses": [
+          {
+            "no": 0,
+            "street": "MEL",
+            "city": "MEL",
+            "county": "",
+            "postalCode": "",
+            "country": "AU",
+            "main": true,
+            "houseNo": "travelnow",
+            "category": 0,
+            "external": false,
+            "contacts": [
+              {
+                "contactNo": 1,
+                "contactType": "Telephone",
+                "value": "+443434343434",
+                "main": true,
+                "preferred": true
+              },
+              {
+                "contactNo": 2,
+                "contactType": "E-mail",
+                "value": "lasanrash@gmail.com",
+                "main": false,
+                "preferred": false
+              }
+            ]
+          }
+        ],
+        "memberships": [],
+        "dummy": false
+      },
+      "infantSeatRequired": false,
+      "reference": {
+        "key": "{{TravellersKey1}}",
+        "externalRefs": []
+      },
+      "primaryPpForBooking": false,
+      "endorsedPpForBooking": false,
+      "endorsedPassengerNo": 0,
+      "allocatedForBooking": false
+    },
+    {
+      "key": "{{TravellersKey2}}",
+      "no": 2,
+      "lead": false,
+      "driver": false,
+      "activeForBooking": true,
+      "refuseInsurance": false,
+      "profile": {
+        "title": "Mr",
+        "firstName": "OEYVD",
+        "middleName": "",
+        "lastName": "TBA",
+        "type": "A",
+        "subType": "A",
+        "dob": "1990-01-01",
+        "dobUnknown": false,
+        "age": 31,
+        "gender": "M",
+        "vip": false,
+        "smoker": false,
+        "frequentFlyerNumbers": [],
+        "addresses": [
+          {
+            "no": 0,
+            "street": "MEL",
+            "city": "MEL",
+            "county": "",
+            "postalCode": "",
+            "country": "AU",
+            "main": true,
+            "houseNo": "travelnow",
+            "category": 0,
+            "external": false,
+            "contacts": [
+              {
+                "contactNo": 1,
+                "contactType": "Telephone",
+                "value": "+612154678956",
+                "main": true,
+                "preferred": true
+              },
+              {
+                "contactNo": 2,
+                "contactType": "E-mail",
+                "value": "test@test.com",
+                "main": false,
+                "preferred": false
+              }
+            ]
+          }
+        ],
+        "memberships": [],
+        "dummy": false
+      },
+      "infantSeatRequired": false,
+      "reference": {
+        "key": "{{TravellersKey2}}",
+        "externalRefs": []
+      },
+      "primaryPpForBooking": false,
+      "endorsedPpForBooking": false,
+      "endorsedPassengerNo": 0,
+      "allocatedForBooking": false
+    }
+  ]
+}
